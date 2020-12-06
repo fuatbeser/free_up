@@ -1,0 +1,3 @@
+#!/bin/bash
+
+exec python /path/to/folder/free_up.py
